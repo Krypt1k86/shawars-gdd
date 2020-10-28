@@ -64,7 +64,7 @@ Contestants win disputes and reputation points while players voting (submitting 
 ## 4.	Gameplay
 Individuals not hosted as a trading pair can interact with the game via voting buttons that send a specific target and hash to be mined on the bitcoin network. 
 
-All votes submitted will be able to be viewed in real time via the transaction index.
+All votes submitted will be able to be viewed in real time via the transaction index as well as at https://sha.center.
 
 There is a live chat element for players to communicate and discuss current sentiment, future trading pairs, trading pair status, etc… as well.
 
